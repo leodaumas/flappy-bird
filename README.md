@@ -1,2 +1,2 @@
 # flappy-bird
-A flappy bird project using javascript
+A flappy bird project using javascript.
