@@ -98,15 +98,8 @@
 
 @media (max-width: 1100px) {
     [wm-flappy] {
-        height: 52,5rem;
-        width: 90rem;
-    }
-  }
-
-  @media (max-width: 850px) {
-    [wm-flappy] {
-        height: 35rem;
-        width: 60rem;
+        height: 80vh;
+        width: 80vw;
     }
 
     .passaro {
@@ -125,30 +118,5 @@
 
     .progresso {
         font-size: 3.5rem;
-    }
-  }
-
-  @media (max-width: 530px) {
-    [wm-flappy] {
-        height: 17.5rem;
-        width: 30rem;
-    }
-
-    .passaro {
-        width: 1.5rem; 
-    }
-
-    .barreira .borda {
-        height: 0.7rem;
-        width: 3.5rem;
-    }
-
-    .barreira .corpo {
-        height: 3rem;
-        width: 3rem;
-    }
-
-    .progresso {
-        font-size: 2rem;
     }
   }
